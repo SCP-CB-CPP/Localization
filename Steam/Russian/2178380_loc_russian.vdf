@@ -4,7 +4,7 @@
 	"Tokens"
 	{
 		"NEW_ACHIEVEMENT_1_0_NAME"	"Биологическая опасность"
-		"NEW_ACHIEVEMENT_1_0_DESC"	"Войти в камеру содержания Зомби-чумы."
+		"NEW_ACHIEVEMENT_1_0_DESC"	"Найти камеру содержания Зомби-чумы."
 		"NEW_ACHIEVEMENT_1_1_NAME"	"Писарь"
 		"NEW_ACHIEVEMENT_1_1_DESC"	"Найти Скверную мелодию."
 		"NEW_ACHIEVEMENT_1_2_NAME"	"Занавес"
@@ -12,7 +12,7 @@
 		"NEW_ACHIEVEMENT_1_3_NAME"	"Доктор, доктор"
 		"NEW_ACHIEVEMENT_1_3_DESC"	"Найти лечение."
 		"NEW_ACHIEVEMENT_1_4_NAME"	"Анти-мем"
-		"NEW_ACHIEVEMENT_1_4_DESC"	"Зaпeрeть SCP-055."
+		"NEW_ACHIEVEMENT_1_4_DESC"	"Снова зaпeрeть SCP-055."
 		"NEW_ACHIEVEMENT_1_5_NAME"	"Дедуктивное мышление"
 		"NEW_ACHIEVEMENT_1_5_DESC"	"Нaйти cтарый ИИ."
 		"NEW_ACHIEVEMENT_1_6_NAME"	"Не смотри на меня"
@@ -76,6 +76,6 @@
 		"NEW_ACHIEVEMENT_2_4_NAME"	"Выжить в кошмаре"
 		"NEW_ACHIEVEMENT_2_4_DESC"	"Пройти игру на сложности \"Кетер\"."
 		"NEW_ACHIEVEMENT_2_5_NAME"	"Эрик?"
-		"NEW_ACHIEVEMENT_2_5_DESC"	"Встретить игрушку Эрика."
+		"NEW_ACHIEVEMENT_2_5_DESC"	"Найти игрушку Эрика."
 	}
 }
