@@ -8,5 +8,5 @@
 
 Voice Actors
 	
-	SCP-049		Daurgon
-	Franklin		Voxellotl
+	SCP-049 - Daurgon
+	Franklin - Voxellotl
