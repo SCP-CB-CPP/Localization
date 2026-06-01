@@ -1,27 +1,25 @@
 *German Localization Leads
 
-        Alexander Brunner ("Lestlandia")
+Alexander Brunner ("Lestlandia")
+Stefan Koch ("Salvage")
 
-        Stefan Koch ("Salvage")
-
-=================================
 
 *German Voices
 
-        Ulgrin - Sebastian Schaaf ("Nerodus")
-        Anxious Security Guard - Justin ("flin")
-        PA System - "Kazuhiko"
-        Franklin - "Voxellotl"
-        MTF Announcer - "Voxelotl"
-        SCP-049 - "Daurgon"
-        SCP-035 - "Daurgon"
-        MTF-1 - "AHeckingChonker"
-        MTF-2 - "Myn"
-        MTF-3 - "AHeckingChonker"
-        H. Scientist - "Maski"
-        Dr. Harp - "Maski"
-        Radio Guy - "Hollowbee"
-        SCP-939-1 - Sebastian Schaaf ("Nerodus")
-        SCP-939-2 - Justin ("flin")
-        SCP-939-3 - Lin
-        Class-D (Femur Breaker) - Stefan Koch ("Salvage")
+Ulgrin - Sebastian Schaaf ("Nerodus")
+Anxious Security Guard - Justin ("flin")
+PA System - "Daurgon"
+Franklin - "Voxellotl"
+MTF Announcer - "Voxelotl"
+SCP-049 - "Daurgon"
+SCP-035 - "Daurgon"
+MTF-1 - "AHeckingChonker"
+MTF-2 - "Myn"
+MTF-3 - "AHeckingChonker"
+H. Scientist - "Maski"
+Dr. Harp - "Maski"
+Radio Guy - "Hollowbee"
+SCP-939-1 - Sebastian Schaaf ("Nerodus")
+SCP-939-2 - Justin ("flin")
+SCP-939-3 - Lin
+Class-D (Femur Breaker) - Stefan Koch ("Salvage")
