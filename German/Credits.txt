@@ -1,6 +1,6 @@
 *German Localization Leads
 
-Alexander Brunner ("Lestlandia")
+Alexander Brunner ("Lest")
 Stefan Koch ("Salvage")
 
 
@@ -14,8 +14,8 @@ MTF Announcer - "Voxelotl"
 SCP-049 - "Daurgon"
 SCP-035 - "Daurgon"
 MTF-1 - "AHeckingChonker"
-MTF-2 - "Myn"
-MTF-3 - "AHeckingChonker"
+MTF-2 - Alexander Brunner ("Lest")
+MTF-3 - "Glutarex"
 H. Scientist - "Maski"
 Dr. Harp - "Maski"
 Radio Guy - "Hollowbee"
@@ -24,5 +24,5 @@ SCP-939-2 - Justin ("flin")
 SCP-939-3 - Lin
 Class-D (Femur Breaker) - Stefan Koch ("Salvage")
 Toilet Guard - Purplatt
-Chaos Insurgency - Alexander Brunner ("Lestlandia")
-096 Server Room Guard - Alexander Brunner ("Lestlandia")
+Chaos Insurgency - Alexander Brunner ("Lest")
+096 Server Room Guard - Alexander Brunner ("Lest")
