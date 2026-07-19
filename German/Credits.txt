@@ -10,9 +10,15 @@ Ulgrin - Sebastian Schaaf ("Nerodus")
 Anxious Security Guard - Justin ("flin")
 PA System - "Daurgon"
 Franklin - "Voxellotl"
+Balcony Guard - "Heateffect"
 MTF Announcer - "Voxelotl"
 SCP-049 - "Daurgon"
 SCP-035 - "Daurgon"
+D-9341 (SCP-012)- "Heateffect"
+Class-D 1 - Alexander Brunner ("Lest")
+Class-D 2 - "ShinRamyeon"
+Storage Room Scientist 1 - "Heateffect"
+Storage Room Scientist 2 - "ShinRamyeon"
 MTF-1 - "AHeckingChonker"
 MTF-2 - Alexander Brunner ("Lest")
 MTF-3 - "Glutarex"
@@ -23,7 +29,7 @@ SCP-939-1 - Sebastian Schaaf ("Nerodus")
 SCP-939-2 - Justin ("flin")
 SCP-939-3 - Lin
 SCP-990 - "Dr. Zargota"
-Class-D (Femur Breaker) - Stefan Koch ("Salvage")
+Class-D (Femur Breaker) - "ShinRamyeon"
 Toilet Guard - Purplatt
 Chaos Insurgency - Alexander Brunner ("Lest")
 096 Server Room Guard - Alexander Brunner ("Lest")
