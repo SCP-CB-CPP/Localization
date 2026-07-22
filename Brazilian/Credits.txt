@@ -1,6 +1,6 @@
 *Portuguese (Brazil) Localization
 
-		Breno ("SkeletonGuitar" aka "Brine")
+		Breno ("Brine")
 		Mateus Oliveira ("Mafeuso")
         some guy...
         O site oficial da Fundação Lusófona (filial em português do SCP Foundation Wiki).
