@@ -1,67 +1,9 @@
-﻿*SCP - CONTAINMENT BREACH
-
-*Český překlad - původní tým
-
-		Matyáš Lédr (GGabey14)
-
-*Tým 2026
-
-		Nebex
-		Dypiro
-		trickiwoo
-		Skall
-
-*V českém znění
-
-		- František Petřkovský (SuperRyba939) -
-		Agent Uhlíř
-		Vedoucí bezpečnosti Franklin		
-		Dispečer Chaosové vzpoury			
-		Hlas na konci Brány A				
-		Nejmenované postavy na konci Brány B (2)		
-		Vrtulník OH-6	
-
-		- Václav Poupě (Valclav) -
-		Stráž se sluchátky
-		Rozhlas
-		Dispečer MOÚ
-		Příslušnici MOÚ	
-		
-		- Matyáš Lédr (GGabey14) -
-		Eskorta											
-		Vědec u počítače				
-		Personál třídy D				
-		Stráž na balkóně				
-		Nejmenovaní vědci (3)		
-		Hlasatel rádia
-		Nešťastník s vysílačkou
-		doktor Harp
-		SCP-035
-		SCP-049
-		SCP-939
-		SCP-106
-		SCP-789-J
-		SCP-008 (2)
-		Subjekt D-9341 při zacházení s SCP-012
-		Návnadný subjekt
-		Uklízeč
-		Stráž v serverovně
-		Sebevrah		
-		Příslušníci MOU
-		Rozhlas Brány B
-		Nejmenované postavy na konci Brány B (2)
-		Vrtulník CH-1
-		Agent Chaosové vzpoury
-
-		- ttsfree.com -
-		SCP-079
-
-
-*Zvláštní poděkovaní
-
-		Jakub Kadlec a František Petřkovský - za zkoušku překladu
-		Wikipedie - za články o nemocích použité v SCP-1025
-		r/scpcontainmentbreach - za pomoc se soubory a publikací
-		Všichni z Discordu SCP:CB - Salvage a spol.
-		Původní tvůrci hry - za celou tuto skvělou hru a také za zveřejnění zdrojového kódu
-		Ježíš Kristus - za pomoc tam, kde internet nepomůže a nervy selhávají
+﻿*Český překlad
+		Dypiro - GFX (294 a 914 panel), 294, načítací obrazovky, titulky, text hry
+		Nebex - GFX, 294, titulky, text hry
+		Trickiwoo - text hry, načítací obrazovky
+		Skall - GFX, text hry
+		G~e~b~b~y (negramot, prepisovali jsme doslova vsechny jeho zmeny)
+		Matyáš Lédr (GGabey14) (verze 1.3.11) - GFX, titulky (dab), tituly pro neslyšící, dabing
+		František Petřkovský (SuperRyba939) - dabing
+		Václav Poupě (Valclav) - dabing
