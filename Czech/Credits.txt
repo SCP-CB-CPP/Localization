@@ -4,6 +4,6 @@
 		Nebex - GFX, 294, titulky, text hry
 		Trickiwoo - text hry, načítací obrazovky
 		Skall - GFX, text hry
-		Matyáš Lédr ("GGabey14") (verze 1.3.11) - GFX, titulky (dab), tituly pro neslyšící, text hry, dabing
+		Matyáš Lédr ("GGabey14") (verze 1.3.11) - GFX, titulky (dab), titulky pro neslyšící, text hry, dabing
 		František Petřkovský ("SuperRyba939") - dabing
 		Václav Poupě ("Valclav") - dabing
