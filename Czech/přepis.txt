@@ -1,1 +1,196 @@
 všechny dokumenty na světě
+poznámky a třeba doktora L. jsem sem nepsal, jen "oficiální" dokumenty
+
+docmap.jpg >
+stačí změnit "kontaminační" na "zadržovací", tam není co jiného přepisovat
+
+docSC.jpg
+STANDARDNÍ BEZPEČNOSTNÍ ÚROVNĚ NADACE SCP
+NULTÁ ÚROVEŇ: Běžný personál. Těmto zaměstnancům není povoleno zacházet s objekty SCP. Porušení tohoto nařízení je trestáno likvidací.
+PRVNÍ ÚROVEŇ: Základní bezpečnostní úroveň osob zacházejících s objekty SCP. V úředních spisech bývá většinou připisován objekt, ke kterému má zaměstnanec přístup (např. 1/173).
+DRUHÁ ÚROVEŇ: Bezpečnostní třída vedoucích pracovišť s objekty SCP. V úředních spisech mohou mít připsáno několik objektů oddělených pomlčkou (např. 2/173-847-423).
+TŘETÍ ÚROVEŇ: Všechen bezpečnostní personál Oblasti 19 je pověřen touto bezpečnostní úrovní, je jim povolen přístup ke všem objektům SCP tříd nižších, než Keter.
+ČTVRTÁ ÚROVEŇ: Vedení Oblasti, povolen přístup ke všem objektům SCP tříd nižších, než Keter.
+PÁTÁ ÚROVEŇ: Nejvýše postavený personál, většina také členové O5. Udělena některým osobám kvůli potřebě často zacházet s objekty SCP třídy Keter.
+
+docRP.jpg
+V případě narušení zadržení bude osoba ve věku 10 až 25 let umístěna do zadržovací místnosti, samozřejmě vyklizené po předešlém použití. Po přípravě místnosti následuje připoutání návnadného subjektu k zařízení. Poté následuje zamčení a uzavření místnosti z venku.
+Před zahájením protokolu a navedení SCP-106 do místnosti je třeba vypnout elektromagnety typu ELO-IID.
+Od XX/X/XX je ke zranění subjektu používán automatický hydraulický lis ("drtič stehenní kosti"). Zvuk vydán subjektem je třeba pro stoprocentní účinnost přehrát přes celou Oblast.
+Po vstupu SCP-106 do místnosti je třeba ji opět nadzvednout elektromagnety typu ELO-IID.
+
+docRAND3.jpg
+Poté, co O5 zamítli můj návrh zlikvidovat SCP173, jsem se rozhodl předložit nový návrh, a to sice zpřísnění bezpečnostních opatření kolem něj. Myslím, že instalace tří dveří do jeho prázdné zadržovací místnosti rozhodně není od věci.
+Také bych byl rád, kdyby úklid měl na starost pouze zvlášť vycvičený personál, nikoli subjekty třídy D. Tuto práci jsme jim neměli vůbec svěřovat.
+Zpravte mě prosím co nejdříve o vašem rozhodnutí.
+- doktor Ming
+(tady je obrázek, tam se musí změnit "kontaminační" na "zadržovací"
+
+docRAND2.jpg
+Vstup: kilogram oceli - stupeň: drsný
+Výstup: Několik ojedinělých útržků oceli. Vypadaly, jako by byly rozřezány laserem.
+Vstup: kilogram oceli - stupeň: drsný
+Výstup: kilogram železných šroubů
+Vstup: kilogram oceli - stupeň: jemný
+Výstup: kilogram železných kobercových připínáčků
+Vstup: kilogram oceli - stupeň: velmi jemný
+Výstup: Několik plynů vypuštěných značnou rychlostí spolu s jedním gramem neznámého kovu s teplotou tavení vyšší, než 50 000°C, který nelze ohnout či zlomit jakoukoliv silou, také skoro dokonalým (1.6x10-75 ρ) vodič elektrického proudu.
+Vstup: bílá myš domácí - stupeň: 1:1
+Výstup: hnědá myš domácí
+Vstup: šimpanz učenlivý - stupeň: jemný
+Výstup: (začerněno celé)
+Vstup: šimpanz učenlivý
+Výstup: Silně zmrzačená mrtvola šimpanze se znaky popálení a drcení
+Připomínám všem zaměstnancům, že je přísně zakázáno vkládat jakoukoliv organickou hmotu do SCP-914. Dodržujte při provádění experimentů prosím běžné postupy, abychom předešli všem možným nehodám. Nikdo z nás by přece nechtěl znovu zažít ten incident se železným pavoukem z minulého týdne.
+- doktor Harp
+
+docRAND1.jpg (nvm, jestli má cenu tohle měnit)
+Nazývejte prosím všechny objekty SCP jejich číselnými označeními. I když vám ustálené názvy možná připadají praktičtější, jsou zavádějící a velice neprofesionální. Proto bude také každý, kdo bude nadále místo názvu SCP-106 používat název "Radikální Larry" nahlášen správci sektoru.
+- Dr. Gears
+
+docORI.jpg
+Orientační leták pro personál třídy D
+Jménem Nadace SCP a všech zaměstnanců bychom Vás rádi přivítali. Byl jste vybrán na velice zajímavý měsíční pracovní poměr v jedné z našich přísně tajných Oblastí. Bohužel Vám nemůžeme přesné detaily momentálně sdělit - přesto si ovšem tento dokument pozorně přečtěte, pokud chcete, aby Váš zdejší pobyt byl co nejpříjemnější a nejbezpečnější.
+Každému subjektu třídy D je přiděleno osobní identifikační číslo. Vaše je
+D-9341
+Nyní Vás budeme nazývat pouze jím, proto je nutné si jej zapamatovat.
+Při Vašem pracovním poměru se zúčastníte několika testů. Některé z nich mohou být extrémně nebezpečné, nebudete-li postupovat opatrně a dle pokynů. Vyžadujeme od Vás plnou spolupráci vždy a všude - odborníci z řad našich vědců (nebo výzkumníků? tohle vyber ty) vždy ví, jak minimalizovat nebezpečí a zajistit bezpečnost personálu při testování. Nebudete-li spolupracovat, bude vykonán trest smrti, ke kterému jste byl původně odsouzen.
+Pokud vše proběhne podle plánu (= budete zcela spolupracovat), na konci měsíce budete propuštěn a bude Vám udělena milost za všechny předem spáchané zločiny.
+
+docOBJC.jpg
+BEZPEČNÁ: Přiřazena objektům, které lze spolehlivě a účinně zadržet. Přestože mají objekty této třídy vlastní zadržovací procedury, jejich zadržení většinou neselhává. Také bývá přiřazována objektům vyčkávajícím podrobnější analýzu a zařazení.
+Je nutno podotknout, že zadržovací procedury těchto objektů jsou i přesto důležité a nutné. S nesprávným zacházením mohou být některé objekty tyto třídy také nebezpečné. Název této třídy je odvozen od toho, že jsou zde zařazené objekty bezpečné v tom případě, kdy je s nimi zacházeno v souladu se zadržovacími procedurami. Dobrým příkladem bezpečného objektu by podle této definice byla nabitá střelná zbraň, jaderná bomba nebo plutonium.
+EUCLID: Objekt, jehož chování nelze účinně předpovědět buď proto, že má vlastní vědomí, působí mimo vysvětlitelné hranice námi známých vědeckých oborů, nebo nebyl dosud ještě dostatečně pochopen. V případě narušení zadržení tyto objekty nejsou takovou hrozbou pro přežití lidstva, jako objekty třídy Keter, přesto jsou přísnější a bezpečnější zadržovací procedury na místě.
+KETER: Objekty vykazují nepřátelský postoj k lidskému životu. civilizaci či časoprostoru. Jsou také schopny napáchat vážné škody a ztráty v případě narušení jejich zadržení. Objekty této třídy jsou neustále hlídány, zaznamenávány, zadrženy a pokud možno likvidovány.
+Označení třídou Keter neznamená jen to, že je objekt schopen katastrofálně ohrozit jak lidský život, tak civilizaci, ale také to, že jeho zadržovací procedury musí být co nejpodrobnější a nejjistější. Zkoumání objektů této třídy je vždy jednou z nejvyšších priorit Nadace.
+
+docNDP.jpg
+PROJEKT MODULÁRNÍHO AREÁLU
+NÁVRH UMÍSTĚNÍ
+JADERNÝCH ZBRANÍ
+doktor Harp
+Hlavice Alfa (str. 10)
+Čtyři kilotunové vodíkové bomby schopny zničit venkovní část Oblasti, aniž by jakkoliv poškodily podzemí
+Ochranný štít (str. 15)
+Měl by být schopen zcela ochránit Oblast v případě odpálení hlavic Alfa
+Hlavice Omega (str. 4)
+Pětimegatunová vodíková bomba schopna zničit vše v osmikilometrové blízkosti Oblasti, včetně jí samotné
+Odpálení vyžaduje přístup 5. bezpečnostní úrovně
+Pro podrobnější schéma a technické informace viz str. 24
+
+docMTF.jpg
+Nadace SCP vyžaduje vysoký počet zvlášť specializovaných bezpečnostních zaměstnanců. Ti většinou zachází s objekty SCP, jejichž zadržení vyžaduje rozsáhlé či netradiční postupy. Tuto roli plní Mobilní Ozbrojené Útvary. MOÚ jsou malé týmy (většinou čítající kolem 20 členů, i když jsou známy i některé přesahující 50) specializující se na plnění určitých úkolů během mimořádného stavu.
+Mobilní Ozbrojené Útvary působící v Oblasti XX
+MOÚ Alfa-2 ("Pošťáci"): Dohled na objekty tříd Bezpečná a Euclid při přesunech mezi pracovišti Nadace.
+MOÚ Gamma-5 ("Jsou s námi, pane!"): Šíření dezinformací a ujišťování civilního obyvatelstva.
+MOÚ Eta-10 ("Slepí vůdci slepých"): Specialisté na zadržení memetických hrozeb.
+MOÚ Epsilon-11 ("Devítiocasá liška): Založen dne XX/XX/XXXX po přemístění několika objektů SCP tříd Euclid a Keter do Oblasti XX po útocích na Oblast 15, Oblast 19, Sektor XX a Sektor XX. Úkolem tohoto útvaru je chránit Oblast před možnými vnějšími hrozbami spolu s zadržením objektů SCP uniklých po narušení zadržení. Intenzivní výcvik tohoto útvaru probíhá v Oblasti XX.
+
+docMSP.jpg
+PROJEKT MODULÁRNÍ OBLASTI
+doktor G. Maynard
+Tento dokument a veškeré přílohy mohou být sdíleny jedině mezi účastníky konference "Úvod k Projektu modulární Oblasti". Přečtěte si prosím tento dokument včetně příloh již před konáním konference.
+Projekt modulární Oblasti je návrh započat doktorem G. Maynardem a Strojně-technickým oddělením Nadace SCP. Přestože je stále v poměrně rané fázi, O5 se k němu již teď kladně vyjádřili a podpořili jej. (Podrobnější informace naleznete v dokumentu "Vyjádření O5 k Projektu modulární Oblasti)
+Ujistěte se prosím, že jste spolu s tímto dokumentem obdržel/a také následující přílohy:
+- Krátký úvod k Projektu modulární Oblasti (12 stran)
+- Hlavní moduly (8 stran)
+- Zabezpečení (7 stran)
+- Vyjádření O5 k Projektu modulární Oblasti (8 stran)
+- Konferenční rozvrh (4 strany)
+
+docIR106.jpg
+Hlášení o incidentu SCP-106-0204
+09:00 - Strážce Skinner a bezpečnostní agent Carey začínají běžnou hlídací směnu zadržovací místnosti SCP-106.
+09:21 - SCP-106 uteklo ze své zadržovací místnosti. Strážce Skinner spustil celooblastní poplach a informoval o situaci vedoucího bezpečnosti Franklina. Agent Carey tvrdí, že si v tuto dobu dával v jídelně B kávu. Za toto tvrzení byl již kázeňsky potrestán.
+09:22 - SCP-106 spatřeno poblíž kancelářského bloku C. Jeden úředník ním byl napaden a pravděpodobně unesen do kapesní dimenze.
+Vedoucí bezpečnosti Franklin dorazil k zadržovací místnosti SCP-106 s několika agenty 5. bezpečnostní úrovně (včetně agenta Careyho) spolu se subjektem třídy D označeným číslem D-9215. Agent Skinner se zcela ztratil, předpokládán únos SCP-106.
+09:24 - Subjekt D-9215 byl umístěn do zadržovací místnosti SCP-106. Byl započat zadržovací protokol.
+09:27 - SCP-106 spatřeno v chodbě vedoucí k zadržovací místnosti SCP-079.
+09:36 - SCP-106 se vynořilo ze západní zdi své zadržovací místnosti, přilákáno hlasitými projevy bolesti subjektu D-9215. Místnost byla nadzvednuta elektromagnety typu ELO-IID.
+09:45 - Poplach zrušen. Započat úklid škod způsobených SCP-106.
+=========================================
+Volně související poznámky:
+10:04 - Vědec (nebo výzkumník? rozhodni) si všiml, že vrata zadržovací místnosti SCP-079 nelze otevřít jak ručně, tak ovládacím panelem. Tým čítající tři opravářů povolán na kontrolu.
+10:20 - Opraváři potvrdili podezření, že se nejedná o chybu dálkového ovládání dveří. Začala demontáž dveří.
+Je možné, že tato chyba byla způsobena SCP-106, neboť zde bylo při svém útěku spatřeno.
+
+doc970.jpg
+Speciální zadržovací procedury:
+Všechna místa, na kterých se SCP-970 nachází, by měla ihned připadnout Nadaci, tohle přivlastnění samozřejmě vyžaduje vhodné vysvětlení obyvatelstvu - všem civilistům by měl být odepřen přístup k místu výskytu SCP-970, nejlépe místními bezpečnostními složkami. Všem nepovolaným osobám vstupujícím na místo by měla po dopadení být vymazána paměť drogami třídy A.
+Popis:
+SCP-970 je prostorová anomálie, ve které se určitá místnost neustále opakuje. Ve všech zaznamenaných případech takovým způsobem, aby bylo vždy možné postranními dveřmi přejít do další. Výskyt těchto místností nijak neovlivňuje patro, na kterém se nachází, či okolní místnosti.
+SCP-970-1 je vězeňský blok v Sektoru 19 a také první případ tohoto úkazu na půdě Nadace. Toto zařízení bylo postaveno jakožto ubikace pro personál třídy D, tento účel také plnilo do dne XX/XX/XXXX, kdy se skrz SCP-970-1 povedlo prchajícím subjektům třídy D způsobit narušení zadržení. Vyšetřování tohoto narušení zadržení odhalilo, že se v tomto bloku z ničeho nic objevilo několik nových dveří, kterými se pokusili utéct. Brzy bylo také zjištěno, že budova, uvnitř které se blok nacházel, tyto nové místnosti v sobě nikde doopravdy neobsahoval, tudíž došlo k anomálii v geometrickém stavu reality.
+Po tomto incidentu bylo nalezeno ještě 91 výskytů tohoto úkazu - 91% z nich vzdálených nejvýše 800 kilometrů od Sektoru 19.
+
+doc966.jpg
+Speciální zadržovací procedury:
+Všechny exempláře SCP-966 (tři samci, označeni jako SCP-966-1, 3 a 4 plus jedna samice, označena jako SCP-966-2), které se Nadaci podařily odchytnout, by měly být uzavřeny v místnosti o rozměrech 10 x 10 metrů. Tato místnost by měla mít ocelové zdi pokryté olovem a opatřena dvěma infračervenými kamerami. Každý měsíc je třeba tyto exempláře nakrmit dvaceti (20) kilogramy masa.
+Popis:
+SCP-966 lze spatřit jen na vlnových délkách od 700 nm do přibližně 900 nm. Zdá se, že tato vlastnost se vyskytuje u všech exemplářů, nehledě na jejich stavy.
+Potravou SCP-966 jsou zvířata malého či středního vzrůstu včetně člověka. Loví buď sami nebo po dvojicích. Jejich hlavním způsobem lovu je vysílání dříve neznámé vlny (nazvány XXXXXXXX vlny, na počest zesnulého doktora XXXXXXXX). Po střetem člověka s touto vlnou jej začne napadat ve fázích spánku NREM a REM. Zbaví jej také schopnosti mikrospánku.
+Poté, co deprivují svou kořist spánku vyčkají, než upadne do bezvědomí či zemře vyčerpáním. Poté jej, je-li třeba usmrtí a požijí. Bylo také zjištěno, že jsou velice hbité a tiché při pronásledování svých obětí. V některých případech vydávají dokonce zvláštní zvuky, aby svou oběť ještě více vystresovaly, jindy jej, je-li příliš fyzicky zdatná také napadnou.
+
+doc939.jpg
+SCP-939 jsou endotermní, smečkoví predátoři vykazující atrofii několika smyslů, podobně jako někteří troglobionti. Mají vlhkou kůži světle červené barvy. SCP-939 jsou v průměru 2,2 metrů vysoké a průměrně váží okolo 250 kg - váha se většinou u jednotlivých exemplářů liší, výška však nikoli. Každá z jejich čtyř končetin má na konci po třech a jednom protilehlém drápu. Jsou také pokryty štětem, který jim značně napomáhá při lezení po zdech. Mají protáhlé hlavy bez očí, očních důlků či lebky. Jejich čelisti se skládají z několika rudých, zdánlivě svítivých zubů připomínajících tesáky. Tyto zuby mohou být až 6 centimetrů dlouhé a také se mezi nimi nachází malé orgány využívající infračervené světlo, podobny těm, které lze pozorovat u hadů.
+Jejich hlavním způsobem lákání kořisti je napodobování lidské řeči. Napodobování zvuků jiných živočichů bylo v minulosti také zaznamenáno. Jejich hlasové projevy skoro vždy vykazují jistou míru znepokojení. Stále nevíme, zda SCP-939 rozumí řeči, kterou napodobují, ovšem doufáme, že se z momentálně probíhajícího výzkumu dovíme více.
+SCP-939 vydechují aerosolovitou látku schopnou mazání paměti třídy C, pojmenovanou MAZ-C227. Tato látka způsobuje u člověka dočasnou amnézii, pozastavující tvorbu vzpomínek po dobu vystavení této látce a dalších přibližně třiceti (3O) minut. Je bez barvy, zápachu a chuti. Ve větrané místnosti je šance na vdechnutí značně snížena, ovšem stále není nulová. Dalšími účinky jsou například desorientace a mírné halucinace. Kvůli těmto účinkům byla již několikrát nákaza MAZ-C227 omylně diagnostikována jako omámením některým z běžných halucinogenů.
+
+doc895.jpg
+Speciální zadržovací procedury:
+SCP-895 by mělo být uzavřeno a uchováno v izolované zadržovací místnosti alespoň 100 metrů hluboko pod zemí. V "rudé zóně" (vzdálenosti 10 a méně metrů od SCP-895) je bez souhlasu alespoň dvou (2) zaměstnanců 3. bezpečnostní úrovně přísně zakázáno používat kamery, mikrofony či jakákoliv jiná záznamová zařízení.
+Popis:
+SCP-895 je dubová rakev nalezena v márnici [REDIGOVÁNO] dne XX/X/XX po ohlášení zvláštních jevů na kamerových záznamech této instituce. Po otevření SCP-895 zjistili agenti Nadace, že je prázdná, přestože osoby pozorující objekt kamerovým systémem [REDIGOVÁNO]. Do doby neurčité je SCP-895 zakázáno otevírat.
+SCP-895 způsobuje rušení obrazu na videozáznamech společně s halucinacemi do přibližně padesátimetrové vzdálenosti. Tyto halucinace byly subjekty označeny za velice znepokojivé, až skutečné. Jejich délka se většinou liší dle případu, jejich vyvolání bylo vždy ovšem zapříčiněno kamerovým záznamem pořízeným kamerou z určité vzdálenosti od objektu. Záznamy pořízeny kamerou vzdálenou od SCP-895 5 či méně metrů způsobují u většiny subjektů intenzivní duševní trauma a hysterické stavy. Tyto jevy se nevztahují na osoby, které se nenachází poblíž zadržovací místnosti objektu.
+
+doc8601.jpg
+Dveře odemčeny pomocí SCP-860 nevedou do druhé místnosti, nýbrž jsou vstupem do malé části lesa, jehož středem vede 80 centimetrů široká vyšlapaná cesta. Toto místo námi bylo označeno jako SCP-860-1. Všechna pozorování tohoto místa potvrdila výskyt husté, modré mlhy.
+Ihned po vstupu osoby do SCP-860-1 se za ní samy zabouchnou dveře. zevnitř SCp-860 se zdá, že jsou dveře přistaveny k nekončící betonové zdi. Ani jeden z dosavadních pokusů probourat dveře zevnitř SCP-860-1 nebyl úspěšný. Všechny tyto pokusy vedly k [REDIGOVÁNO], pro podrobnější popis viz dokument 860-III.
+Vyšlapaná cesta uvnitř SCP-860-1 většinou vede k dalším dveřím, připevněným k další nekončící betonové zdi. Tyto druhé dveře vedou do druhé strany místnosti tak, jak původně měly.
+Personál provádějící výzkum v SCP-860-1 popsal obsáhlou řadu ostatních anomálií vyskytujících se uvnitř. Pro podrobnější popis viz dokumenty 860-I až 860-IV.
+Po Průzkumu IV (který je popsán v dokumentu 860-IV) je zaměstnancům bezpečnostních úrovní nižších, než 4. přísně zakázáno zkoumat SCP-860-1.
+Incident 860-91-12: Dne XX/XX/XXXX bylo SCP-860 nalezeno na stole doktora XXXXXX, vzdáleném od zadržovací místnosti SCP-860 asi XXX metrů. Jeho zadržovací místnost ovšem nebyla tehdy v blízké době otevřena. Kamerový záznam dokazuje, že se klíč v XX:XX hodin náhle objevil na stole. Doposud nám není jasné, jak se tam dostal. Tento incident zanechal na doktoru XXXXXX vážné psychické následky - byla mu doporučena prohlídka duševního zdraví.
+
+doc860.jpg
+Speciální zadržovací postupy
+SCP-860 by mělo být uzamčeno v malé, dřevěné krabičce v trezoru nacházejícím se v Sektoru-91. Předmět není sám o sobě nijak nebezpečný, proto nejsou žádná přísnější opatření zapotřebí.
+Popis:
+SCP-860 je tmavě modrý klíč obyčejného vzhledu. V náhodných časových intervalech se na jeho čepeli objevilo několik čísel. Později bylo zjištěno, že se jedná o souřadnice zemské šířky a výšky.
+SCP-860 odemyká dveře nacházející se na těchto místech. SCP-860 je schopno otevřít však pouze tyto dveře - bylo zjištěno, že jiný druh zámku nezvládá.
+Dveře odemčeny pomocí SCP-860 nevedou do druhé místnosti, nýbrž jsou vstupem do malé části lesa, jehož středem vede 80 centimetrů široká vyšlapaná cesta. Toto místo námi bylo označeno jako SCP-860-1. Všechna pozorování tohoto místa potvrdila výskyt husté, modré mlhy (pro podrobnější informace viz dokument o SCP-860-1).
+
+doc714.jpg
+Speciální zadržovací procedury:
+SCP-714 by mělo být uchováno ve vyztuženém, přísně střeženém trezoru, do kterého je povolen vstup pouze zaměstnancům 4. či vyšší bezpečnostní úrovně. Tohle opatření platí z důvodu několika incidentů spjatých s nesprávným použitím SCP-714.
+Popis:
+Přestože vypadá jako obyčejný nefritový prsten, bylo zaznamenáno, že se poloměr SCP-714 přizpůsobuje velikosti prstu nositele. To je ovšem jeho nejzanedbatelnější abnormální vlastností. Po nasazení na prst má na nositele tyto účinky:
+1) Vyčerpání a silná únava - již minutu po nasazení bylo subjekty hlášeno, že se cítí vyčerpaně jak fyzicky, tak psychicky.
+2) Zpomalená reakční doba a velmi pomalé pohyby.
+3) Zhoršené schopnosti myšlení - všichni dosavadní nositelé SCP-714 prohlásili, že při nošení "přemýšlí pomalu". V tomto stavu dokonce někteří ani nemohli najít slov, jak jej ostatním popsat.
+4) Mentální "štít" - zvláštní výhodou zhoršených schopností myšlení nastoleným nošením SCP-714 je zvýšená tolerance a odolnost vůči memetickým a psychickým hrozbám, některé slabší jím mohou být zcela utlumeny.
+5) Tolerance vůči chemikáliím - u nositelů byla zaznamenána zvýšená tolerance a odolnost vůči různým chemickým látkám, podobně jako u memetických a psychických hrozeb. Některé jedy či podobné vysoce toxické látky jsou zcela neúčinné, u některých (například těch omezujících nervovou či neuronovou soustavu, například u sedativ či stimulantů) se vyskytují jen minimální příznaky.
+
+doc682.jpg
+Speciální zadržovací procedury:
+SCP-682 musí být co nejdříve zničeno. Momentálně se v celé Nadaci SCP nenachází jediný tým, který by byl schopen jej zničit - jediný doposud dosaženým výsledkem jsou značné újmy na jeho fyzickém stavu. SCP-682 musí být uzavřeno v místnosti o rozměrech 5x5x5 metrů pokryté 25,4 centimetrů tlustým, kyselinovzdorným plechem. Na všechny pokusy SCP-682 se pohnout, hovořit či utéct musí být zareagováno ihned a takovou silou, jakou daná situace vyžaduje.
+Popis:
+SCP-682 je obří, zdánlivě ještěrovitý živočich neznámého původu. Zdá se, že je překvapivě inteligentní - v jednom případě se dalo do podrobného rozhovoru s SCP-079, dokud od sebe nebyly objekty znovu odděleny. Při několika rozhovorech v zabezpečeném prostředí bylo zjištěno, že v sobě SCP-682 chová nenávist vůči všemu živému.
+Vždy bylo zaznamenáno, že má extrémně vyvinutou sílu, rychlost a reflexy, i když se přesné údaje liší dle současného stavu. Tělo SCP-682 roste a mění tvar nadměrnou rychlostí, roste a zmenšuje se při konzumaci či probourání jakéhokoliv materiálu. SCP-682 získává energii ze všeho, co požije, ať už je to organické, nebo ne. Jeho trávícím schopnostem pravděpodobně napomáhají filtrační žábra uvnitř nosních dírek. Tyto žábra jsou schopny odebrat použitelnou hmotu z jakékoliv tekutiny, což mu dovoluje se neustále regenerovat pomocí kyseliny, ve které je udržováno. Jeho regenerační schopnosti a odolnost jsou velice obdivuhodné až znepokojivé. Bylo zaznamenáno při řeči a chůzi, přestože bylo jeho tělo z 87% zničeno.
+
+doc513.jpg
+Speciální zadržovací procedury:
+SCP-513 by mělo být uchováváno v želatinové krychli o objemu jednoho metru krychlového. Místnost, ve které je uzavřeno, musí být zvukotěsná a zateplená. Želatinu je třeba denně kontrolovat pro jakékoliv znaky proboření. Personál provádějící tuto inspekci je povinen nosit špunty v uších po celou dobu provádění inspekce.
+Popis:
+SCP-513 je zrezlý zvonek obyčejného vzhledu. Kvůli značné korozi povrchu nelze pozorovat jakékoliv symboly či nápisy, které na něm mohly dříve být.
+Jakýkoliv zvuk tvořen SCP-513 vyvolává ve všech posluchačích ihned silný pocit znepokojení. Subjekty vystaveny těmto zvukům ohlásily, že se cítily, "jako by je někdo sledoval", spolu se zrychleným srdečním tepem a zvýšeným tlakem. Po přibližně hodině po vystavení zvuku začne subjekt vnímat bytost zvanou SCP-513-1. Tato bytost údajně otevírá dveře a chodí okolo zrcadel v jejich blízkosti, točí rychle hlavou nebo dělá cokoliv, co jaksi rychle mění jeho pozorovaný stav. Poté, co si jej oběť všimne ihned, mizí.
+Všechny popisy vzhledu SCP-513-1 jsou dosti nedůvěryhodné, testovací subjekty jej kvůli stavu vyčerpání a zhoršeného duševního stavu po uslyšení zvuku nemohou popsat s jistotou. Všechny doposud zaznamenané střety se však shodnou na to, že se jedná o pohublého, humanoidního tvora s neobvykle dlouhýma rukama.
+
+doc500.jpg
+Speciální zadržovací postupy:
+SCP-500 musí být uskladněno v suchém a studeném prostředí bez světla. Zacházení s SCP-500 je povoleno pouze zaměstnancům 4. či vyšší bezpečnostní úrovně z důvodu několika případů nesprávného použití.
+Popis:
+SCP-500 je malá, plastová nádoba obsahující v době psaní čtyřicet sedm (47) červených pilulí. Po spolknutí jedné z těchto pilulí je subjekt vyléčen ze všech chorob, průměrně do dvou hodin, ačkoliv se podle vážnosti stavu subjektu může tato doba lišit. I přes intenzivní analýzu a testování nebyly pokusy připravit více vzorků úspěšné.
+Poznámka:
+Odteď je všem zaměstnancům bezpečnostní úrovně nižší, než 3. zakázáno používat SCP-500. Pochopte, že tohle nejsou léky na kocovinu - kdybyste chytli AIDS, tak budiž.
+- doktor Klein
+
+tady pro teď končím, pokračuju dál později
