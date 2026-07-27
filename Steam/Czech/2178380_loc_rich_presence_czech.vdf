@@ -5,7 +5,7 @@
 	{
 		"#StatusMenus"	"{#Status_%gamestatus%}"
 		"#StatusGame"	"{#Status_%gamestatus%} on {#Difficulty_%difficulty%}"
-		"#Status_Menu"	"Procházení menu"
+		"#Status_Menu"	"Prochází menu"
 		"#Status_LCZ"	"Procházení se v Lehké Zadržovací Zóně"
 		"#Status_HCZ"	"Procházení se v Těžké Zadržovací Zóně"
 		"#Status_EZ"	"Procházení se ve Vstupní Zóně"
@@ -16,7 +16,7 @@
 		"#Status_PD"	"Uvězněn v Kapesní dimenzi"
 		"#Status_GateA"	"Uniká přes Bránu A"
 		"#Status_GateB"	"Uniká přes Bránu B"
-		"#Status_MT"	"Ztracen v Údržbařských Tunelech"
+		"#Status_MT"	"Ztracen v Údržbových Tunelech"
 		"#Difficulty_Safe"	"Bezpečná"
 		"#Difficulty_Euclid"	"Euclid"
 		"#Difficulty_Keter"	"Keter"
