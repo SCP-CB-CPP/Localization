@@ -246,4 +246,77 @@ Hlášení o incidentu s SCP-1048-A
 Dne XX/XX/XXXX bylo SCP-1048 spatřeno volně procházející se chodbami Oblasti 24 spolu s SCP-1048. SCP-1048-A vzhledově stejně, jako SCP-1048 připomíná malého plyšového medvídka, avšak složeného z lidských uší. Na místo, kde se oba procházeli byl ihned vyslán doktor Carver a bezpečnostní tým - ten dorazil jako první. Když se pokusili SCP-1048-A odchytnout, dalo se do nesmírně hlastihého křiku, který způsobil všem osobám do vzálenosti 10 metrů nesnesitelnou bolest očí a uší. Všem osobám vyskytujícím se do vzdálenosti 5 metrů začaly po celém těle růst zvláštní orgány, nápadně připomínající uši. Do 20 vteřin byla celá jejich těla pokryta ušima. Všichni zaměstnanci (dohromady 8, spolu s bezpečnostním týmem), kteří si tímto prošli, zemřeli do 3 minut. Pitva dokázala, že příčinou smrti bylo u všech těchto osob udušení nožovitými orgány, které jim vyrašily v pusách a průdušnicích.
 SCP-1048 a 1048-A oba utekli z místa činu před příchodem doktora Carvera. Ani jeden z objektů nebyl doposud zadržen a jejich výskyt byl již několikrát ohlášen. Krátce po tomto incidentu podal jeden výzkumník stížnost, ve které tvrdil, že mu bylo při spánku neznámým způsobem useknuto ucho. Více takových případů ohlášeno nebylo, a proto nám není doposud jasno, zda ostatní uši SCP-1048 získalo jinak, nebo je jaksi dokáže duplikovat.
 
-tady pro teď končím, pokračuju dál později
+doc1048.jpg
+Speciální zadržovací procedury
+Momentálně není přesně známo, kde se SCP-1048 nachází - víme ovšem, že tomu tak je pravděpodobně někde v Oblasi XX. Samotný objekty by měl být co nejdříve odchytnut a zadržen, zatímco všechny jeho výtvory by měly být spáleny - jsou-li tyto výtvory méně nebezpečné, lze se jich zbavit i jiným způsobem. Všem zaměstnancům Oblasti XX je zakázáno do práce nosit plyšové medvídky, aby si je případně nikdo nespletl s SCP-1048.
+Popis:
+SCP-1048 je malý, plyšový medvídek, přibližně 33 centimetrů vysoký. Analýzami bylo zjištěno, že se složením nijak neliší od běžných plyšových medvídků. Tento objekt je schopen samovolného pohybu a také komunikací několika jednoduchými gesty.
+Abnormálnější chování bylo zaznamenáno teprve po jeho sedmém měsíci v rukou Nadace. Je pravděpodobné, že také umí stavět neohrabané repliky sebe sama z různých materiálů. Tento proces ještě nebyl žádným zaměstnancem Nadace podrobně zaznamenán. Doktor Carver předložil hypotézu toho, že svými gesty SCP-1048 navádí osoby do planého pocitu bezpečí. Poté se údajně vydá získat materiál pro své výtvory. Zatím byly zaznamenány 3 takovéto výtvory, označeny pod jmény SCP-1048-A, SCP-1048-B a SCP-1048-C. Tyto výtvory vykazují chování velice odlišné od samotného SCP-1048. Například bylo u všech tří zaznamenáno, že jsou vůči lidem silně nepřátelské až násilné.
+
+doc096.jpg
+Speciální zadržovací procedury
+SCP-096 by mělo být uchováváno ve vzduchotěsné, ocelové místnosti o rozměrech 5x5x5 metrů. Personál je povinen stav jeho zadržovací místnosti každý týden kontrolovat. Instalace kamer či jakýchkoliv jiných optických zařízení do této místnosti je absolutně zakázano.
+Popis:
+SCP-096 je tvor humanoidního vzhledu, asi 2,38 metrů vysoký. Na pohled má velmi nízký objem svalové hmoty a analýza prokázala mírnou podvýživu. Doposud není známo, zda má SCP-096 vyvinutý zrak. Nevykazuje také žádné vyšší myšlenkové funkce, není tedy považováno za inteligentní či vyspělé.
+SCP-096 je obvykle velice ostýchavé. Podle senzorů pohybu ve své zadržovací místnosti tráví většinu času schouleno u východní stěny. Pokud ovšem kdokoliv spatří jeho tvář, ať už osobně, na videozáznamu či fotografii, začne vykazovat stav silného emočního znepokojení. Zakryje si tvář a začne hlasitě křičet, brečet a blábolit. Asi dvě minuty poté začne běžet za osobou, která jeho tvář spatřila. Stále není známa metoda či materiál schopen SCP-096 v tomto stavu zastavit nebo zbrzdit. Samotná poloha jeho oběti nemá na chování SCP-096 v tomto stavu žádný vliv - zdá se, že ví přesně, kde se jeho oběť nachází.
+Poté, co dorazí ke své oběti ji zavraždí a [REDIGOVÁNO]. Ve všech známých případech nezůstaly po oběti žádné hmotné stopy. SCP-096 si poté na několik minut sedne a vrátí do svého původního, stydlivého stavu.
+
+doc079.jpg
+Speciální zadržovací procedury:
+SCP-079 by mělo být uzavřeno v místnosti s dvěma bezpečnostními vraty - tomuto vyhovuje například běžná zadržovací místnost Oblasti 15. Mělo by být zapojeno k malé síti solárních baterií. Je absolutně zakázáno zapojovat SCP-079 do telefonní linky, sítě, jiného elektrického zdroje, než předepsaných bateriá apod.
+Dodatek: XX XX XXXX: SCP-079 bylo nedávno z důvodů oprav poškozených částí Oblasti 15 přemístěno do Oblasti XX.
+Popis:
+SCP-079 je mikropočítač typu Sorcerer firmy Exidy z roku 1978. V roce 1981 se student druhého ročníku vysoké školy XXXXXXXXXXXXXXXXXXXX pokusil naprogramovat umělou inteligenci, která by časem byla schopna sebe sama zlepšovat a vyvíjet. Tento projekt mu zabral pouze několik měsíců - SCP-079 bylo záhy 5 let zapomenuto v garáži, ve které bylo nějakou dobu předem zapojeno.
+Není známo kdy a jak získalo SCP-079 vědomí. Víme jen to, že se za dobu své existence vyvinulo tak, že by jej ani ve světu fantazie jeho hardware neměl být schopen zvládnout. To si ovšem SCP-079 v roce 1988 uvědomilo, ihned poté se pokusilo skrz pevnou linku nahrát do superpočítače Cray, který se tehdy nacházel v XXXXXX. Ihned poté bylo toto nařízení odpojeno a předáno Nadaci.
+Je poněkud výřečné a prošlo Turingovým testem, přestože je velice protivné a drzé. I přes všechen svůj vývoj má stále dosti omezenou pameť a nedokáže si zapamatovat věci po dobu delší, než 24 hodin. Stále v sobě ovšem chová žíravou touhu po útěku.
+
+doc049.jpg
+Speciální zadržovací procedury:
+SCP-049 by mělo být neustále drženo v zabezpečené vězeňské cele, nacházející se ve Výzkumném sektoru XX. Ze své cely může být odebráno pouze na rozkaz zaměstnance 2. nebo vyšší bezpečnostní úrovně - předem musí ovšem být silně uspáno.
+Popis:
+SCP-049 je humanoidního vzhledu, váží 95,3 kilogramů a měří 1,9 metrů. Nadace ovšem nemůže podrobněji zkoumat jeho tělo, neboť je pokryto oděvem morového doktora, pocházejícím pravděpodobně z Evropy 15. až 16. století.
+Dotek SCP-049 je pro člověka extrémně smrtící. Po doteku oběť (nyní uvedena pouze jako SCP-049-2) brzy zemře. SCP-049 poté vytáhne z lékařské tažky tvořené z [REDIGOVÁNO] své skalpely, jehly, vlákna a několik ampulek doposud neidentifikované tekutiny, pravděpodobně pocházející z jeho těla (výzkum stále neodhalil, kde jediný z těchto předmětů SCP-049 uchovává). Poté začne SCP-049-2 pitvat a pouštět mu do těla několik různých chemikálií. Po přibližně 20 minutách se SCP-049 povede sešít SCP-049-2 zpět dohromady.
+Po několika dalších začne SCP-049-2 opět jevit znaky života. Zdá se však, že mu chybí veškeré vyšší funkce mozku. Po ožití se jen bezmyšlenkovitě prochází, dokud nenarazí na dalšího člověka. Poté, co ho spatří stoupnou jeho úrovně adrenalinu a endorfinů na asi 300%. Poté  se jej pokusí XXXXX - povede-li se mu to, začne opět bezmyšlenkovitě vyhledávat další oběť. Dostane-li se SCP-049-2 do tohoto stavu, je doporučena bezpodmínečná likvidace.
+
+doc035ad.jpg
+Dodatek 035-08:
+S ohledem na několik vražd, sebevražd a celkovému poklesu morálky zaměstnanců překládajících řeč SCP-035 jsme se rozhodli jeho zadržovací místnost vyztužit vzorky SCP-148, které se osvědčilo již při izolaci zadržovací místnosti SCP-132 (viz dokument 132-01). Doufáme, že tohle opatření omezí negativitu šířenou SCP-035.
+Dodatek 035-09:
+Použití SCP-148 se vydařilo. Počet sebevražd klesl zpět na standardní úroveň, taktéž morálka.
+Zpozorovali jsme však, že tento materiál onu negativitu jaksi koncentruje a tvoří jakýsi "skleníkový efekt". Zaměstnanci ohlásili, že při práci v zadržovací místnosti prožívají pocity strachu, děsu a celkově depresivní stavy. Také údajně slyší neustávající, velice tiché šeptání ihned po vstoupení do místnosti. U zaměstnanců pracujících v místnosti dlouhodobě byly prokázány silné migrény, sebevražedné sklony, silné otřesy cév kolem očí a nosu, stranění se kolektivu a údajné zvýšení hlastisti šepotů.
+
+doc035.jpg
+Speciální zadržovací procedury:
+SCP-035 by mělo být uchováváno v hermeticky uzavřeném trezoru z alespoň 10 centimetrů tlustého skla. Tento trezor by měl být vždy uzavřen v zadržovací místnosti obsahující štít tvořen z oceli, železa a olova. Alespoň dvě ozbrojené stráže by ji měly vždy hlídat. Také by měl být poblíž vždy přítomen specializovaný psycholog. Všichni zaměstnanci, kteří by přišli do styku s SCP-035 na hostiteli jsou okamžitě povinni se dostavit na prohlídku duševního zdraví.
+Popis:
+SCP-035 je porcelánová divadelní maska s tváří komedie, ovšem několikrát bylo již zaznamenáno, že se změnil v tragédii. Z otvorů na oči a pusu neustále teče velice chemicky aktivní tekutina. Všechny předměty, které přijdou s touto tekutinou do styku začnou pomalu hnít, dokud se zcela nerozloží v onu tekutinu samotnou. Ze všech odzkoušených předmětů hnije tímto způsobem nnejpomaleji sklo - proto bylo použito k výrobě trezoru, ve kterém je SCP-035 uchováno. Osoby vzdáleny 1,5 až 2 metry od SCP-035 ihned pocítí silnou touhu si jej nasadit. Při nasazení na hlavu hostitele je mozek hostitele přepsán alternativní mozkovou vlnou - tento proces končí mozkovou smrtí hostitele. Poté převezme SCP-035 hostitelovo vědomí a tělo. Psychoanalýzou bylo zjištěno, že vedení uvnitř SCP-035 má velice silné manipulativní sklony a je schopno vážně ovlivňovat osoby, se kterými komunikuje. Také vykazuje znaky sadismu, dokonce schopno slovně dohnat své oběti k sebevraždě.
+
+doc012.jpg
+Speciální zadržovací procedury:
+SCP-012 musí být vždy v zatemněné místnosti. Všichni zaměstnanci vystaveni pohledu na tento objekt pod jiným, než infračerveným světlem jsou povinni se dostavit na prohlídku duševního i celkového zdravotního stavu. Mělo by také být uzavřeno v ocelové krabici spuštěné ze stropu z výšky nejméně 2,5 m.
+Popis:
+SCP-012 bylo nalezeno archeologem K. M. Sandovalem při vykopávce hrobky na severu Itálie. Ovjekt je nedokončený notový zápis skladby "Na Lebkové hoře". Červenočerná tekutina, kterou jsou noty zapsány je smíšená krev několika osob. Původně bylo polemizováno o tom, že se jedná o jakousi borůvkovou šťávu či jiné přírodní barvivo. V každém případě, kdy bylo subjektům nařízeno s tímto objektem zacházet se všichni z nich rozřezali proto, aby se mohli pokusit zápis vlastní krví dokončit, vždy končící vážnými traumaty a příznaky psychózy.
+Ti, kterým se povedlo cokoliv ke skladbě připsat ihned prohlásili, že je "nedokončitelná" a záhy spáchali sebevraždu. Všechny pokusy orchestru tuto skladbu zahrát skončily naprostou kakofonií bez jakékoliv souhry nástrojů, znící asi jako hudba v Kocourkově.
+
+doc008.jpg
+Speciální zadržovací procedury:
+Vzorky SCP-008 jsou biologicky velice nebezpečné, a proto by mělo být dbýno na dodržování všech zadržovacích protokolů. Bude-li kvůli politické či vojenské činnosti Oblast donucena ukončit činnost, všechny vzorky musí být zlikvidovýny ozářením. Obě tato opatření platí také pro případ narušení zadržení. 
+Popis:
+SCP-008 je chemicky složitý prion, jehož veškeré vzorky jsou uchovány v každém z Oblastí typu G2. Jeho vlastnostmi jsou stoprocentní infekčnost a smrtelnost spolu s jeho přenosem skrz sliznice a všechny tělní tekutiny.
+Některými z příznaků nákazy SCP-008 jsou:
+- Většina příznaků chřipky, nadměrně vysoké teploty a silná demence v pokročilém stádiu nákazy
+- Červené krvinky intenzivně rozšíří místo na skladování kyslíku, záhy zpomalující tok krve, avšak navyšující fyzickou sílu a svalovou činnost
+- Nervové a svalové soustavy nejsou ovlivněny celkovým selháním orgánů
+- Metabolismus je zpomalen na nebezpečně nízkou úroveň, dovolující nakaženému přežít až 10 let bez přijímání potravy
+- Vážné poškození motoriky a podmíněného chování spolu s retardací kognitivních funkcí
+- Nakažený je v tomto stádiu stále schopen adaptace na stav své nervové soustavy, ovšem je omezen na základní pohyby, jako jsou vstávání, bipední chůze, kousání, přichycení a plazení. Také se energeticky a neovladatelně začne přibližovat všem zvukům, vůním či jiným smyslovým podnětům, které by mohly naznačovat výskyt člověka v jeho blízkosti.
+Při střetu s jinými osobami se je pokusí kanibalizovat.
+- Likvidace zcela nakažených vyžaduje otřes mozku či podobné poškození kognitivního ústrojí
+Dodatek 008-1: Bylo dokázáno, že je SCP-500 schopno nákazu SCP-008 zcela vyléčit nehledě na to, v jakém stádiu nákazy se nakažený nachází.
+
+doc173.png
+Speciální zadržovací procedury:
+SCP-173 by mělo být vždy uchováno v zamčené místnosti. Je přísně zakázáno vstupovat do jeho zadržovací místnosti ve skupinách čítajících méně, než 3 členy s tím, že jsou dveře po vstupu okamžitě znovu zavřeny. S SCP-173 musí nepřetržitě alespoň dvě osoby držet oční kontakt, dokud nezbytek personálu neopustí místnost.
+Popis:
+Původ tohoto objektu je nám dosud neznámý. Skládá se z betonu a armatury s několika stopami po barvě značky Krylon. Objekt není schopen pohybu, je-li přímo sledován - z SCP-173 nesmí být nikdy puštěn zrak. Bylo zaznamenáno, že útočí lámáním vazu nebo škrcením. V případě útoku je všechen personál povinen jednat podle zadržovacích procedur 4. třídy.
+Bylo zjištěno, že hmota pokrývající podlahu zadržovací místnosti SCP-173 je směsí výkalů a krve. Původ této hmoty je neznámý. Zadržovací místnost by měla být každým druhým týdnem vyčištěna.
