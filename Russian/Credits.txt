@@ -1,4 +1,4 @@
-﻿Ф*Russian Localization Team
+﻿*Russian Localization Team
 
 
 *--- LEGACY VERSION (v1.3.11) ---
