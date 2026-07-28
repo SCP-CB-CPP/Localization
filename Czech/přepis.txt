@@ -1,5 +1,6 @@
 všechny dokumenty na světě
 poznámky a třeba doktora L. jsem sem nepsal, jen "oficiální" dokumenty
+taky tady bude chybět přepis mojeho dokumentu 173, protože mi ho Nebex smazal a já ho jinde nenajdu, přepíšu později doma
 
 docmap.jpg >
 stačí změnit "kontaminační" na "zadržovací", tam není co jiného přepisovat
@@ -193,4 +194,12 @@ Poznámka:
 Odteď je všem zaměstnancům bezpečnostní úrovně nižší, než 3. zakázáno používat SCP-500. Pochopte, že tohle nejsou léky na kocovinu - kdybyste chytli AIDS, tak budiž.
 - doktor Klein
 
+doc427.jpg
+Popis:
+SCP-427 je malý, kulatý zdobený medailon z leštěného stříbra. Ozdobné vzory, které do něj jsou vryty zjevně neplní žádný účel. Stále nevíme, zda byl vnějšek SCP-427 vůbec vyřezán skutečnými osobami.
+SCP-427 bylo vyrobeno vložením pilule SCP-500 do SCP-914 při použití velmi jemného stupně. Je-li medailon zavřen, nepvykazuje žádnou neobvyklou aktivitu.
+Po otevření a vystavení organické hmotě začne neobvyklou rychlostí opravovat veškeré poškozené buňky.
+Má také schopnost zneškodnit jakoukoliv infekci nebo podobnou látku či organismus vstupující do těla. Jakožto základ pro měření jsme použili nachlazení - to průměrný imunitní systém vyléčí za přibližně 3-10 dní. SCP-427 jej vyléčilo do 2 až 4 minut. Tato léčivá schopnost ovšem cestuje jen jistým směrem - osoby, které nejsou natočeny směrem k orbu, který je do SCP-427 vyrytý nepodstupují žádné změny.
+Dlouhodobé používání SCP-427 je ovšem zdraví nebezpečné. Při hojení hmoty také intenzivně posiluje nervovou postavu. Odolnost vůči různým toxinům, jako např. LD50 je při prvních 10 minutách vstupu toxinu do těla zvýšena na 500%, dále i na 1000%. Po 15 minutách ovšem začíná slábnout, to způsobí šok svalům a navýší toleranci k bolesti spolu s fyzickou sílou o 200 až 300%.
+není hotovo
 tady pro teď končím, pokračuju dál později
