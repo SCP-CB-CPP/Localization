@@ -201,5 +201,49 @@ SCP-427 bylo vyrobeno vložením pilule SCP-500 do SCP-914 při použití velmi 
 Po otevření a vystavení organické hmotě začne neobvyklou rychlostí opravovat veškeré poškozené buňky.
 Má také schopnost zneškodnit jakoukoliv infekci nebo podobnou látku či organismus vstupující do těla. Jakožto základ pro měření jsme použili nachlazení - to průměrný imunitní systém vyléčí za přibližně 3-10 dní. SCP-427 jej vyléčilo do 2 až 4 minut. Tato léčivá schopnost ovšem cestuje jen jistým směrem - osoby, které nejsou natočeny směrem k orbu, který je do SCP-427 vyrytý nepodstupují žádné změny.
 Dlouhodobé používání SCP-427 je ovšem zdraví nebezpečné. Při hojení hmoty také intenzivně posiluje nervovou postavu. Odolnost vůči různým toxinům, jako např. LD50 je při prvních 10 minutách vstupu toxinu do těla zvýšena na 500%, dále i na 1000%. Po 15 minutách ovšem začíná slábnout, to způsobí šok svalům a navýší toleranci k bolesti spolu s fyzickou sílou o 200 až 300%.
-není hotovo
+Personál třídy D vystaven objektu déle, než hodinu se začal měnit v těžko popsatelnou masu organické hmoty.
+
+doc372.jpg
+Speciální zadržovací procedury:
+SCP-372 by mělo být uchováváno v cele o rozměrech 5x4x2 metrů pokryté vyztuženým plexisklem. V každé ze čtyř stěn jeho cely by měl být zabudován snímač pohybu.
+V případě narušení zadržení jsou zaměstnanci povinni hlásit jakékoliv podezřelé a rychlé pohyby, kterou zahlédnou v rozích zorného pole.
+Popis:
+SCP-372 je tvor neznámého rodu, asi 2 metry dlouhý od hlavy k ocasu, vážící asi 50 kilogramů. Má dlouhé, štíhlé tělo s osmi páry úzkých končetin.
+Analýza prokázala, že jsou jeho svaly [REDIGOVÁNO], což mu umožňuje extrémně rychlé a přesné pohyby. Každá část jeho těla je nadměrně pružná a všechny jeho končetiny jsou pokryty vláknem, umožňnující mu se přichytit ke skoro každé ploše.
+Namísto očí a uší má [REDIGOVÁNO]. Tento smyslový orgán je schopen nejen echolokace, ale také umí detekovat přenosy energie, například elektrické impulzy uvnitř mozků pozorovatelů. SCP-372 je díky tomuto schopno přesně předpovídat pohyby všech bytostí ve své blízkosti. Tuto dovednost používá, aby se mohlo vyhnout, schovat anebo projít kolem těchto bytostí, aniž by bylo spatřeno.
+
+doc1499.png
+Popis:
+SCP-1499 je plynová maska typu GP-5 sovětské výroby. Testy prokázaly, že svůj původní účel stále plní. Anomálie se začnou projevovat po nasazení na hlavu subjektu, který po cca 1 vteřině zmizí z dohledu a stane se ostatními prostředky zcela nedetekovatelným. Při tomto jevu subjekt údajně necítí jakýkoliv pocit pohybu. Přestože je subjekt tehdy nedetekovatelný, komunikace pomocí vysílačky je v tomto stavu stále možná. Bylo ohlášeno, že se po nasazení subjekty ocitly v krajině zcela lišící se té, ve které se nacházeli před nasazením. Podle jejich popisu je tato krajina z většiny prázdná a s nedostačujícími podmínkami pro život. Také se v ní vyskytuje několik vysokých věží černé barvy, spolu s bytostmi nadále uvedenými pod názvem SCP-1499-1. Tyto bytosti jsou údajně humanoidního vzhledu, jsou vysoké, nahé a mají tmavě zbarvenou kůži pokrytou neznámou rosolovitou hmotou. Také mají celá svá těla pokryta několika očima a pusama. Po sundání SCP-1499 z hlavy se subjekt opět objeví tam, kde se nacházel před nasazením - pro podrobnější informace viz záznamy testů.
+
+doc1162.jpg
+Speciální zadržovací procedury:
+SCP-1162 je právě uzavřeno v místnosti o rozměrech 5x5x5 metrů. Je třeba jej alespoň jedou týdně aktivovat, aby se nepřemístilo - více informací o tomto chování níže.
+SCP-1162 je momentálně díra ve zdi, nacházející se v zadržovací místnosti 4. Je asi 14,5 centimetrů široká. Jeho hloubka se mění dle použití. Přestože chybí část cihel, ze kterých je zeď postavena, i pomocí silného osvětlení nelze vidět, co se za dírou nachází.
+SCP-1162 je aktivováno, když vloží bytost s vědomím dovnitř ruku, nebo jinou končetinnu. Po vložení předmětu se daný předmět vytratí a subjekt obdrží předmět jiný. Oba předměty musí být takové velikosti, aby se vešly dovnitř i ven. Předměty vytažené ven jsou údajně předměty, se kterými se subjekty v životě někdy již setkali, nebo jej hledali. Ihned po vytáhnutí tohoto předmětu ovšem subjektu další předmět, který u sebe držel zmizí. Všechny předměty vloženy do SCP-1162 mizí poté, co se jich subjekt pustí. 
+Není-li SCP-1162 aktivováno alespoň jednou co 168 hodin, samovolně se přemístí na jednu ze zdí v zatím nepotvrzené vzdálenosti 2000 kilometrů od umístění předešlého. Po přemístění po něm zůstává díra, tato ovšem již nevykazuje jakékoliv abnormální vlastnosti.
+
+doc1123.jpg
+Speciální zadržovací procedury:
+SCP-1123 by mělo být uskladněno v hermeticky uzavřené místnosti v atmosféře plynného argonu s teplotou mezi 20 a 25°C s relativní vlhkostí 55%. S SCP-1123 by nemělo být jakkoliv zacházeno mimo provádění experimentu v bezpečném prostředí.
+Popis:
+SCP-1123 je lidská lebka s chybějící čelistí a zuby. Na čele je lidskou krví napsána moderní khmerštinou věta "Vzpomeň si". (nebo pamatuj? rozhodni sám)
+Poté, co se subjekt k SCP-1123 přiblíží, ihned zaznamená několik smyslových anomálií, včetně zvláštních pachů (údajně připomínajících vařící maso nebo popel) a zvuků (například jemného pláče, tichého bití srdce či vzdálených kroků). Také byly zaznamenány různé fyzické anomálie, například třísky v očích subjektů či dlahy na nohou.
+Po dotknutí se SCP-1123 začne subjekt ihned prožívat stav disociativního úprchu. Charakteristické vlastnosti tohoto stavu jsou zmatení, dezorientace a převzetí subjektu předem neznámé identity spolu se vzpomínkami a myšlením (včetně jazykových znalostí).
+
+doc106.jpg
+Speciální zadržovací procedury:
+Jakékoliv fyzické zacházení s SCP-106 je absolutně zakázáno - je povoleno pouze v případě testu v kontrolovaném prostředí a se svolením alespoň dvou třetin O5.
+Veškeré znaky koroze, ať už na zdech, zaměstnancích nebo kdekoliv jinde musí být ihned ohlášeny nejbližšímu bezpečnostnímu pracovníkovi.
+Popis:
+SCP-106 vzhledově připomíná osobu pokročilého věku s ohromným množstvím rozložené hmoty. SCP-106 není nijak hbité a několikrát již bylo zaznamenáno, jak stálo na stejném místě i několik dní vkuse, vyčkávaje svou další oběť. Při útoku se ji pokusí znehybnit zasažením klíčkových orgánů, svalů či šlach. Poté svou bezbrannou oběť odtáhle do své "kapesní dimenze".
+SCP-106 způsobuje "korozi" veškeré hmoty, které se dotkne. Znaky této "koroze" jsou rez, hnití, praskání a vznik slizovité hmoty podobné té pokrývající jeho tělo.
+SCP-106 má schopnost procházet skrz pevný materiál, zanechává po sobě veliké skvrny své shnilé hmoty. Také umí jednoduše zmizet - při tomto jevu se pravděpodobně stahuje do své "kapesní dimenze". Doteď nevíme, zda se jedná o jeho místo původu, či jakési "doupě", které si nějakým způsobem samo vytvrořilo.
+Omezené průzkumy tohoto místa prokázaly, že je z většiny tvořeno chodbami a místnostmi s [REDIGOVÁNO].
+
+doc1048a.jpg
+Hlášení o incidentu s SCP-1048-A
+Dne XX/XX/XXXX bylo SCP-1048 spatřeno volně procházející se chodbami Oblasti 24 spolu s SCP-1048. SCP-1048-A vzhledově stejně, jako SCP-1048 připomíná malého plyšového medvídka, avšak složeného z lidských uší. Na místo, kde se oba procházeli byl ihned vyslán doktor Carver a bezpečnostní tým - ten dorazil jako první. Když se pokusili SCP-1048-A odchytnout, dalo se do nesmírně hlastihého křiku, který způsobil všem osobám do vzálenosti 10 metrů nesnesitelnou bolest očí a uší. Všem osobám vyskytujícím se do vzdálenosti 5 metrů začaly po celém těle růst zvláštní orgány, nápadně připomínající uši. Do 20 vteřin byla celá jejich těla pokryta ušima. Všichni zaměstnanci (dohromady 8, spolu s bezpečnostním týmem), kteří si tímto prošli, zemřeli do 3 minut. Pitva dokázala, že příčinou smrti bylo u všech těchto osob udušení nožovitými orgány, které jim vyrašily v pusách a průdušnicích.
+SCP-1048 a 1048-A oba utekli z místa činu před příchodem doktora Carvera. Ani jeden z objektů nebyl doposud zadržen a jejich výskyt byl již několikrát ohlášen. Krátce po tomto incidentu podal jeden výzkumník stížnost, ve které tvrdil, že mu bylo při spánku neznámým způsobem useknuto ucho. Více takových případů ohlášeno nebylo, a proto nám není doposud jasno, zda ostatní uši SCP-1048 získalo jinak, nebo je jaksi dokáže duplikovat.
+
 tady pro teď končím, pokračuju dál později
