@@ -1,4 +1,4 @@
-﻿*Russian Localization Team
+﻿Ф*Russian Localization Team
 
 
 *--- LEGACY VERSION (v1.3.11) ---
@@ -69,6 +69,7 @@
 		Alexey Kuzmin
 		Anatolii Kononov
 		Mikhail Grigoriev ("Zero_Gravity")
+		Daniil Berezhnoy ("Yogurtovich")
 
 
 *Audio Restoration
