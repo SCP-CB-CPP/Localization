@@ -7,7 +7,7 @@
 *Original Localization by Trill Team & CreatorMasters (2018)
 
 
-*Project Lead
+*Project Lead & Coordination
 		
 		Ivan Badikov
 
@@ -47,6 +47,10 @@
 		Nikolai Markozov
 		Dmitriy Sazanov ("Dmitriy-Bars")
 
+*Audio Director
+
+		Ivan Badikov
+
 
 *And also
 
@@ -72,12 +76,12 @@
 		Daniil Berezhnoy ("Yogurtovich")
 
 
-*Audio Restoration
+*Audio Director
 		
 		Mikhail Grigoriev ("Zero_Gravity")
 
 
-*Translation & Proofreading
+*Translators
 		
 		Mikhail Grigoriev ("Zero_Gravity")
 		JustMarkov
@@ -91,3 +95,4 @@
 *Special thanks to
 		
 		Stefan Koch ("Salvage")
+		Ivan Badikov
