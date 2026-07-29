@@ -1,13 +1,36 @@
-﻿*Russian Localization
+﻿*Russian Localization Team
+
+
+*--- LEGACY VERSION (v1.3.11) ---
+
+
+*Original Localization by Trill Team & CreatorMasters (2018)
+
+
+*Project Lead & Coordination
+		
+		Ivan Badikov
+
 
 *CreatorMasters
+
+
+*Translators
 
 		Oleg Siryak
 		Ivan Mikhailov ("Redbull.Ivan")
 		Tatyana Nizova
 
 
+*Graphics & Textures
+
+		Ivan Mikhailov ("Redbull.Ivan")
+
+
 *Trill Team
+
+
+*Voice Acting
 
 		Ivan Badikov
 		Mikhail Natarius ("FilinMinv")
@@ -24,18 +47,52 @@
 		Nikolai Markozov
 		Dmitriy Sazanov ("Dmitriy-Bars")
 
+*Audio Director
+
+		Ivan Badikov
+
 
 *And also
 
 		Sergey Zverev
-		
 
-*Localization Contributors for Steam
+*--- CURRENT VERSION (v1.3.12+) ---
+
+
+*Project Lead & Coordination
+		
+		Mikhail Grigoriev ("Zero_Gravity")
+
+
+*Voice Acting
+		
+		Mikhail Natarius ("FilinMinv")
+		Arsenii Abramov
+		Alexander Orlov
+		Alexey Chekanov
+		Alexey Kuzmin
+		Anatolii Kononov
+		Mikhail Grigoriev ("Zero_Gravity")
+		Daniil Berezhnoy ("Yogurtovich")
+
+
+*Audio Director
+		
+		Mikhail Grigoriev ("Zero_Gravity")
+
+
+*Translators
 		
 		Mikhail Grigoriev ("Zero_Gravity")
 		JustMarkov
 
 
+*Graphics & Textures
+		
+		Mikhail Grigoriev ("Zero_Gravity")
+
+
 *Special thanks to
 		
 		Stefan Koch ("Salvage")
+		Ivan Badikov
