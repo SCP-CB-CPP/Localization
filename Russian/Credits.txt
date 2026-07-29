@@ -85,7 +85,7 @@
 		
 		Mikhail Grigoriev ("Zero_Gravity")
 		JustMarkov
-		GoBoyGo5
+		Viktor Zhabinskyi ("GoBoyGo5")
 
 
 *Graphics & Textures
