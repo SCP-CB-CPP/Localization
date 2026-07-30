@@ -22,7 +22,7 @@ Storage Room Scientist 2 - "ShinRamyeon"
 MTF-1 - "AHeckingChonker"
 MTF-2 - Alexander Brunner ("Lest")
 MTF-3 - "Glutarex"
-H. Scientist - "Maski"
+Head Scientist - "Maski"
 Dr. Harp - "Maski"
 Radio Guy - "Hollowbee"
 SCP-939-1 - Sebastian Schaaf ("Nerodus")
