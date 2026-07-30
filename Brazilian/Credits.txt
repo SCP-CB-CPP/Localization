@@ -1,9 +1,21 @@
 *Portuguese (Brazil) Localization
 
-		Breno ("SkeletonGuitar" aka "Brine")
+		Breno ("Brine")
 		Mateus Oliveira ("Mafeuso")
         some guy...
+        O site oficial da Fundação Lusófona (filial em português do SCP Foundation Wiki).
+
+Dubladores PT-BR:
+
+        Colossos125
         itsaddi
         André de Oliveira ("AwolDarky" aka "zDarkzera")
         Renan Akamine
-        O site oficial da Fundação Lusófona (filial em português do SCP Foundation Wiki).
+        Sixflaver
+        Gears
+        Nevetuwu
+        Pedro H M de Castro
+        SoraTO
+        LUISDUBSBR
+        827near
+        Noobie que é Straitz
