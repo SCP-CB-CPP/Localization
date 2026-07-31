@@ -1,6 +1,6 @@
 *Český překlad
 
-		Filip Jukelson ("Dypiro") - GFX, 294, načítací obrazovky, titulky, text hry
+		Dypiro - GFX, 294, načítací obrazovky, titulky, text hry
 		Nebex - GFX, 294, titulky, text hry
 		Trickiwoo - text hry, načítací obrazovky
 		Skall - GFX, text hry
