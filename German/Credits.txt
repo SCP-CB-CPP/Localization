@@ -6,7 +6,6 @@ Stefan Koch ("Salvage")
 *German Textures
 
 Alexander Brunner ("Lest")
-Stefan Koch ("Salvage")
 
 *German Sound Editing
 
