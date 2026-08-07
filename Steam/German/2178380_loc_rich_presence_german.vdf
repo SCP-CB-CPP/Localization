@@ -1,0 +1,25 @@
+"lang"
+{
+	"Language"	"english"
+	"Tokens"
+	{
+		"#StatusMenus"	"{#Status_%gamestatus%}"
+		"#StatusGame"	"{#Status_%gamestatus%} auf {#Difficulty_%difficulty%}"
+		"#Status_Menu"	"Stöbert durch Menüs"
+		"#Status_LCZ"	"Wandert durch die Leichteindämmungszone"
+		"#Status_HCZ"	"Wandert durch die Strengeindämmungszone"
+		"#Status_EZ"	"Wandert durch die Eingangszone"
+		"#Status_jorge"	"jorge hat dich erwartet"
+		"#Status_Intro"	"Testet SCP-173"
+		"#Status_860"	"Durchquert einen Blauen Wald"
+		"#Status_1499"	"Trägt eine GP-5 Gasmaske"
+		"#Status_PD"	"Steckt fest in der Taschendimension"
+		"#Status_GateA"	"Flieht durch Tor A"
+		"#Status_GateB"	"Flieht durch Tor B"
+		"#Status_MT"	"Verläuft sich in den Wartungstunneln"
+		"#Difficulty_Safe"	"Sicher"
+		"#Difficulty_Euclid"	"Euclid"
+		"#Difficulty_Keter"	"Keter"
+		"#Difficulty_Esoteric"	"Speziell"
+	}
+}
