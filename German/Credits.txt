@@ -45,7 +45,7 @@ Storage Room Scientist 1 - Heateffect
 Storage Room Scientist 2 - ShinRamyeon
 MTF-1 - AHeckingChonker
 MTF-2 - Alexander Brunner ("Lest")
-MTF-3 - Glutarex
+MTF-3 - Gluratex | Arti
 Head Scientist - Maski
 Dr. Harp - Maski
 Radio Scientist - Heateffect
@@ -57,3 +57,4 @@ Chaos Insurgency - Dr. Zargota
 CH-1 - Heateffect
 OH-6 - Bäschtle
 Pleading Radio Guy - ShinRamyeon
+895 Guard - Heateffect
