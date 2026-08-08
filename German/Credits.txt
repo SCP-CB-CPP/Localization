@@ -37,6 +37,7 @@ SCP-939-1 - Sebastian Schaaf ("Nerodus")
 SCP-939-2 - Justin ("flin")
 SCP-939-3 - Lin
 SCP-990 - Dr. Zargota
+SCP-789J - Heateffect
 D-9341 (SCP-012)- ShinRamyeon
 Class-D 1 - Alexander Brunner ("Lest")
 Class-D 2 - ShinRamyeon
@@ -53,3 +54,6 @@ Class-D (Femur Breaker) - Stefan Koch ("Salvage")
 Toilet Guard - Purplatt
 Chaos Insurgency - Dr. Zargota
 096 Server Room Guard - Alexander Brunner ("Lest")
+CH-1 - Heateffect
+OH-6 - Bäschtle
+Pleading Radio Guy - ShinRamyeon
