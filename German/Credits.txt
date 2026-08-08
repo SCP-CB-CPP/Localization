@@ -38,7 +38,7 @@ SCP-939-2 - Justin ("flin")
 SCP-939-3 - Lin
 SCP-990 - Dr. Zargota
 SCP-789-J - Heateffect
-D-9341 (SCP-012)- ShinRamyeon
+D-9341 (SCP-012) - ShinRamyeon
 Class-D 1 - Alexander Brunner ("Lest")
 Class-D 2 - ShinRamyeon
 Storage Room Scientist 1 - Heateffect
@@ -57,4 +57,4 @@ Chaos Insurgency - Dr. Zargota
 CH-1 - Heateffect
 OH-6 - Bäschtle
 Pleading Radio Guy - ShinRamyeon
-895 Guard - Heateffect
+SCP-895 Guard - Heateffect
