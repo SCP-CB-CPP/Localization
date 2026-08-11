@@ -43,7 +43,7 @@ Class-D 1 - Alexander Brunner ("Lest")
 Class-D 2 - ShinRamyeon
 Storage Room Scientist 1 - Heateffect
 Storage Room Scientist 2 - ShinRamyeon
-MTF-1 - AHeckingChonker
+MTF-1 - Maximilian Wille ("AHeckingChonker")
 MTF-2 - Alexander Brunner ("Lest")
 MTF-3 - Gluratex | Arti
 Head Scientist - Alexander Heier ("Maski")
