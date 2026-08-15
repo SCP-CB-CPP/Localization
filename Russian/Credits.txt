@@ -75,6 +75,7 @@
 		Mikhail Grigoriev ("Zero_Gravity")
 		Daniil Berezhnoy ("Yogurtovich")
 		Yaroslav Sholokhov ("MordoFox")
+		Defils
 
 
 *Audio Director
