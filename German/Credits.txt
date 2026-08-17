@@ -35,7 +35,7 @@ SCP-035 - Daurgon
 SCP-106 - Heateffect
 SCP-939-1 - Sebastian Schaaf ("Nerodus")
 SCP-939-2 - Justin ("flin")
-SCP-939-3 - Lin
+SCP-939-3 - Siren
 SCP-990 - Dr. Zargota
 SCP-789-J - Heateffect
 D-9341 (SCP-012) - ShinRamyeon
