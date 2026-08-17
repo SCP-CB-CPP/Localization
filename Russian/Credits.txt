@@ -76,6 +76,7 @@
 		Daniil Berezhnoy ("Yogurtovich")
 		Yaroslav Sholokhov ("MordoFox")
 		Defils
+		Risetro
 
 
 *Audio Director
