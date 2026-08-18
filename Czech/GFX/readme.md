@@ -1,5 +1,5 @@
 yeah so this is like the folder where all the images are housed i think wait let me get like the filetree showing everything wait
-
+# THIS IS VERY OUTDATED, THERE SHOULD BE ALL GFX FULLY DONE (qc is tbd tho)
 ```
 .../Czech/GFX
 │   294panel.jpg                        Complete
