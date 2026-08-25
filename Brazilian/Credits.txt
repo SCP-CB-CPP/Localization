@@ -24,3 +24,4 @@ Dubladores PT-BR:
         Guilherme Possi
         Chrono Noar
         Yohan
+        Rafael William
