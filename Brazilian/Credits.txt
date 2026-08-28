@@ -25,3 +25,4 @@ Dubladores PT-BR:
         Chrono Noar
         Yohan
         Rafael William
+        MatPkNadian
