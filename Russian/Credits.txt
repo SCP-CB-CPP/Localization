@@ -33,6 +33,7 @@
 *Voice Acting
 
 		Ivan Badikov
+		Ivan Mikhailov ("Redbull.Ivan")
 		Mikhail Natarius ("FilinMinv")
 		Arsenii Abramov
 		Alexander Orlov
@@ -77,6 +78,7 @@
 		Yaroslav Sholokhov ("MordoFox")
 		Defils
 		Risetro
+		Ilya K. ("Zet Thunder")
 
 
 *Audio Director
