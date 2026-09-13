@@ -27,3 +27,4 @@ Dubladores PT-BR:
         Rafael William
         MatPkNadian
         Marionete Tiranela
+        Yoru
