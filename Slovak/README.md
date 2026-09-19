@@ -19,7 +19,7 @@
 ├───Loadingscreens (N/A)
 │       loadingscreens.ini                  	N/A    Inomplete
 │
-└───SFX                                     	N/A      Incomplete
+└───SFX                                     	25%    Incomplete
 ```
 
 ### Credits
