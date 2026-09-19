@@ -1,4 +1,4 @@
 *Slovenský preklad
 
-		PhDrCobra - Spúšťač hry, Hlavné menu
+		PhDrCobra - Spúšťač hry, Hlavné menu, Dabing
 		VojtaSajdlCZ - Dabing
