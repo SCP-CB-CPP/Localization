@@ -28,3 +28,4 @@ Dubladores PT-BR:
         MatPkNadian
         Marionete Tiranela
         Yoru
+        Éder Luiz Duarte
