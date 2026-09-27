@@ -1,28 +1,40 @@
+
 *German Localization Leads
+
 
 Alexander Brunner ("Lest")
 Stefan Koch ("Salvage")
 
+
 *German Textures
+
 
 Alexander Brunner ("Lest")
 
+
 *German Sound Editing
+
 
 Alexander Brunner ("Lest")
 Mikhail Grigoriev ("Zero_Gravity")
 
+
 *German Script
+
 
 Alexander Brunner ("Lest")
 Stefan Koch ("Salvage")
+
 
 *German UI-Translations
 
+
 Alexander Brunner ("Lest")
 Stefan Koch ("Salvage")
 
+
 *German Voices
+
 
 Ulgrin - Sebastian Schaaf ("Nerodus")
 Anxious Security Guard - Justin ("flin")
