@@ -32,3 +32,5 @@ Dubladores PT-BR:
         Marco
         Diogo Victor ("DIGGO")
         MateusUlisses
+        Christian.Priv ("Moon")
+        007Dubs
