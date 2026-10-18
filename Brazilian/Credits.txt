@@ -34,3 +34,4 @@ Dubladores PT-BR:
         MateusUlisses
         Christian.Priv ("Moon")
         007Dubs
+        Hevinus
