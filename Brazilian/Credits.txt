@@ -35,3 +35,4 @@ Dubladores PT-BR:
         Christian.Priv ("Moon")
         007Dubs
         Hevinus
+        Peixe mais Peixe
