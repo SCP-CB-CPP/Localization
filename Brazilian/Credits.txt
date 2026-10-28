@@ -36,3 +36,4 @@ Dubladores PT-BR:
         007Dubs
         Hevinus
         Peixe mais Peixe
+        NickYarro
