@@ -77,5 +77,11 @@
 		"NEW_ACHIEVEMENT_2_4_DESC"	"Beat the game on Keter difficulty."
 		"NEW_ACHIEVEMENT_2_5_NAME"	"\"Eric?\""
 		"NEW_ACHIEVEMENT_2_5_DESC"	"Encountered Eric's Toy."
+		"AchvHlwnEye_NAME"	"Infinite Power"
+		"AchvHlwnEye_DESC"	"Enjoyed an eyeball gummy."
+		"AchvHlwnLolly_NAME"	"Sculpt'-o'-Lantern"
+		"AchvHlwnLolly_DESC"	"Enjoyed a lollipop."
+		"AchvHlwnBar_NAME"	"The Eight Cages"
+		"AchvHlwnBar_DESC"	"Enjoyed a chocolate bar."
 	}
 }
