@@ -77,5 +77,11 @@
 		"NEW_ACHIEVEMENT_2_4_DESC"	"Пройти игру на сложности \«Кетер\»."
 		"NEW_ACHIEVEMENT_2_5_NAME"	"Эрик?"
 		"NEW_ACHIEVEMENT_2_5_DESC"	"Найти игрушку Эрика."
+		"AchvHlwnEye_NAME"	"Безграничная сила"
+		"AchvHlwnEye_DESC"	"Попробовать мармеладный глаз."
+		"AchvHlwnLolly_NAME"	"Скульпт-о-фонарь"
+		"AchvHlwnLolly_DESC"	"Попробовать леденец."
+		"AchvHlwnBar_NAME"	"Ловушка за ловушкой"
+		"AchvHlwnBar_DESC"	"Попробовать шоколадный батончик."
 	}
 }
