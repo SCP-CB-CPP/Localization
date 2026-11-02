@@ -77,5 +77,11 @@
 		"NEW_ACHIEVEMENT_2_4_DESC"	"Vence el Juego en Dificultad Keter."
 		"NEW_ACHIEVEMENT_2_5_NAME"	"\"Eric?\""
 		"NEW_ACHIEVEMENT_2_5_DESC"	"Encuentra el Juguete de Eric."
+		"AchvHlwnEye_NAME"	"Poder Ilimitado"
+		"AchvHlwnEye_DESC"	"Disfrutaste de un Caramelo de ojo."
+		"AchvHlwnLolly_NAME"	"Escult'-a'-Linterna"
+		"AchvHlwnLolly_DESC"	"Disfrutaste de una Paleta."
+		"AchvHlwnBar_NAME"	"Las Ocho Jaulas"
+		"AchvHlwnBar_DESC"	"Disfrutaste de una Barra de Chocolate."
 	}
 }
