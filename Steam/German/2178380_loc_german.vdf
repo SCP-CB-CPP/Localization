@@ -77,5 +77,11 @@
 		"NEW_ACHIEVEMENT_2_4_DESC"	"Hat das Spiel auf dem Keter-Schwierigkeitsgrad abgeschlossen."
 		"NEW_ACHIEVEMENT_2_5_NAME"	"\"Eric?\""
 		"NEW_ACHIEVEMENT_2_5_DESC"	"Ist Erics Spielzeug begegnet."
+		"AchvHlwnEye_NAME"	"Ich BIN das Stromnetz!"
+		"AchvHlwnEye_DESC"	"Hat einen Augapfel-Bonbon verspeist."
+		"AchvHlwnLolly_NAME"	"Augen auf, beim Kürbisschnitzen"
+		"AchvHlwnLolly_DESC"	"Hat einen Kürbis-Lolli verspeist."
+		"AchvHlwnBar_NAME"	"Rumschlendern"
+		"AchvHlwnBar_DESC"	"Hat eine Tafelschokolade verspeist."
 	}
 }
